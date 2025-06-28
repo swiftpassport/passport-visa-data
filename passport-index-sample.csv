@@ -1,0 +1,82 @@
+Passport,Destination,Requirement
+Afghanistan,Albania,e-visa
+Afghanistan,Algeria,visa required
+Afghanistan,Andorra,visa required
+Afghanistan,Angola,visa required
+Afghanistan,Antigua and Barbuda,e-visa
+Afghanistan,Argentina,visa required
+Afghanistan,Armenia,visa required
+Afghanistan,Australia,e-visa
+Afghanistan,Austria,visa required
+Afghanistan,Azerbaijan,visa required
+Afghanistan,Bahamas,e-visa
+Afghanistan,Bahrain,e-visa
+Afghanistan,Bangladesh,visa on arrival
+Afghanistan,Barbados,visa required
+Afghanistan,Belarus,visa required
+Afghanistan,Belgium,visa required
+Afghanistan,Belize,visa required
+Afghanistan,Benin,e-visa
+Afghanistan,Bhutan,e-visa
+Afghanistan,Bolivia,visa on arrival
+Afghanistan,Bosnia and Herzegovina,visa required
+Afghanistan,Botswana,e-visa
+Afghanistan,Brazil,visa required
+Afghanistan,Brunei,visa required
+Afghanistan,Bulgaria,visa required
+Afghanistan,Burkina Faso,e-visa
+Afghanistan,Burundi,visa on arrival
+Afghanistan,Cambodia,visa on arrival
+Afghanistan,Cameroon,e-visa
+Afghanistan,Canada,visa required
+Afghanistan,Cape Verde,visa on arrival
+Afghanistan,Central African Republic,visa required
+Afghanistan,Chad,visa required
+Afghanistan,Chile,visa required
+Afghanistan,China,visa required
+Afghanistan,Colombia,visa required
+Afghanistan,Comoros,visa on arrival
+Afghanistan,Congo,visa required
+Afghanistan,Costa Rica,visa required
+Afghanistan,Croatia,visa required
+Afghanistan,Cuba,visa required
+Afghanistan,Cyprus,visa required
+Afghanistan,Czech Republic,visa required
+Afghanistan,Democratic Republic of the Congo,e-visa
+Afghanistan,Denmark,visa required
+Afghanistan,Djibouti,e-visa
+Afghanistan,Dominica,21
+Afghanistan,Dominican Republic,visa required
+Afghanistan,East Timor,visa on arrival
+United States,Canada,180
+United States,United Kingdom,180
+United States,France,90
+United States,Germany,90
+United States,Japan,90
+United States,Australia,90
+United States,China,visa required
+United States,Russia,visa required
+United States,India,e-visa
+United States,Brazil,visa required
+Germany,France,visa free
+Germany,Italy,visa free
+Germany,Spain,visa free
+Germany,United Kingdom,180
+Germany,United States,90
+Germany,Canada,180
+Germany,Australia,90
+Germany,Japan,90
+Germany,China,15
+Germany,India,e-visa
+China,United States,visa required
+China,Canada,visa required
+China,United Kingdom,visa required
+China,Germany,visa required
+China,France,visa required
+China,Japan,15
+China,South Korea,30
+China,Singapore,30
+China,Thailand,30
+China,Malaysia,30
+
+Note: This is just a sample. The full dataset contains ~40,000 records covering all country pairs.
